@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Fernanda 👋
 
-<!--
-**fer-misquevis/fer-misquevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Python | Data Analysis | Machine Learning**
 
-Here are some ideas to get you started:
+I am a professional in career transition to **Data Science**, with a solid background in analysis, communication, and problem-solving. I work with **data analysis, automation, and applied machine learning**, transforming data into insights that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Areas of Interest
+
+* Data Analysis & Visualization
+* Machine Learning
+* Python Automation
+* AI Applications
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Python, SQL
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+🔹 *Pinned repositories below* ⬇️
+
+Each project includes:
+
+* Clear problem statement
+* Applied methodology
+* Technologies used
+* Results and insights
+
+---
+
+## 📫 Connect with me
+
+* 💼 [LinkedIn](https://www.linkedin.com)
+* 📂 GitHub: [https://github.com/fer-misquevis](https://github.com/fer-misquevis)
+
+---
+
+✨ *Always learning, building, and improving.*
