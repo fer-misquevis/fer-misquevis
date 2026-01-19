@@ -23,19 +23,6 @@ I am a professional in career transition to **Data Science**, with a solid backg
 
 ---
 
-## 📌 Featured Projects
-
-🔹 *Pinned repositories below* ⬇️
-
-Each project includes:
-
-* Clear problem statement
-* Applied methodology
-* Technologies used
-* Results and insights
-
----
-
 ## 📫 Connect with me
 
 * 💼 [LinkedIn](https://www.linkedin.com)
