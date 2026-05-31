@@ -1,33 +1,37 @@
-# Hi, I'm Fernanda 👋
+# Hi, I'm Fernanda
 
-🎯 **Data Scientist | Python | Data Analysis | Machine Learning**
+**Machine Learning Engineer | Data Scientist | Python | AI & Data Solutions**
 
-I am a professional in career transition to **Data Science**, with a solid background in analysis, communication, and problem-solving. I work with **data analysis, automation, and applied machine learning**, transforming data into insights that support decision-making.
-
----
-
-## 🧠 Areas of Interest
-
-* Data Analysis & Visualization
-* Machine Learning
-* Python Automation
-* AI Applications
+Machine Learning and Data Science professional with experience in R&D projects, developing scalable ML solutions, real-time processing pipelines, and intelligent systems. Passionate about solving complex problems through data, combining technical expertise, analytical thinking, and stakeholder collaboration to deliver business value.
 
 ---
 
-## 🛠 Tech Stack
+## Areas of Interest
+
+* Machine Learning Engineering
+* Data Science & Analytics
+* Intelligent Systems & AI Applications
+* Real-Time Data Processing
+* Signal Processing & Time-Series Analysis
+
+---
+
+## Tech Stack
 
 * **Languages:** Python, SQL
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* **Tools:** Git, GitHub, Jupyter Notebook
+* **Machine Learning:** Scikit-learn, Time-Series Analysis, Feature Engineering
+* **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Visualization:** Power BI, Tableau
+* **Tools:** Git, GitHub, Jupyter Notebook, APIs, WebSockets
+* **Cloud:** AWS & GCP (Fundamentals)
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
-* 💼 [LinkedIn](https://www.linkedin.com)
-* 📂 GitHub: [https://github.com/fer-misquevis](https://github.com/fer-misquevis)
+* [LinkedIn](https://www.linkedin.com)
+* GitHub: [https://github.com/fer-misquevis](https://github.com/fer-misquevis)
 
 ---
 
-✨ *Always learning, building, and improving.*
+*Always learning, building, and improving.*
