@@ -1,6 +1,6 @@
 # Hi, I'm Fernanda
 
-**Machine Learning Engineer | Data Scientist | Python | AI & Data Solutions**
+**Data Scientist | Python | AI & Data Solutions**
 
 Machine Learning and Data Science professional with experience in R&D projects, developing scalable ML solutions, real-time processing pipelines, and intelligent systems. Passionate about solving complex problems through data, combining technical expertise, analytical thinking, and stakeholder collaboration to deliver business value.
 
